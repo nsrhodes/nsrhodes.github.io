@@ -14,15 +14,15 @@ My postdoctoral research has been supported by a SickKids RESTRACOMP fellowship 
 ### More Information
 
 [Research Background](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/background.png?raw=true"/>
 
 ---
 [Publications](/publications)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/figure.png?raw=true"/>
 
 ---
 [Talks](/talks)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/talk.png?raw=true"/>
 
 ---
 
