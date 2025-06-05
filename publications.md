@@ -3,21 +3,28 @@
 
 ### First Author
 
-Rhodes, N., Rier, L., Singh, K.D., Sato, J., Vandewouw, M.M., Holmes, N., Boto, E., Hill, R.M., Rea, M., Taylor, M.J. and Brookes, M.J., 2025. Measuring the neurodevelopmental trajectory of excitatory-inhibitory balance via visual gamma oscillations. Imaging Neuroscience, 3, p.imag_a_00527.
+Rhodes N, Rier L, Boto E, Hill RM, Brookes MJ (2025) Source reconstruction without an MRI using optically pumped magnetometer based magnetoencephalography. Imaging Neuroscience 3
 
+Rhodes N, Rier L, Singh KD, Sato J, Vandewouw MM, Holmes N, Boto E, Hill RM, Rea M, Taylor MJ, Brookes MJ (2025) Measuring the neurodevelopmental trajectory of excitatory-inhibitory balance via visual gamma oscillations. Imaging Neuroscience 3:imag_a_00527
 
-Rhodes, N., Rier, L., Singh, K.D., Sato, J., Vandewouw, M.M., Holmes, N., Boto, E., Hill, R.M., Rea, M., Taylor, M.J. and Brookes, M.J., 2025. Measuring the neurodevelopmental trajectory of excitatory-inhibitory balance via visual gamma oscillations. Imaging Neuroscience, 3, p.imag_a_00527.
+Rhodes N*, Sato J*, Safar K, Amorim K, Taylor MJ (2024) Paediatric magnetoencephalography and its role in neurodevelopmental disorders. British Journal of Radiology, tqae123 *contributed equally
 
-Rhodes, N., Sato, J., Safar, K., Amorim, K., Taylor, M.J. and Brookes, M.J., 2024. Paediatric magnetoencephalography and its role in neurodevelopmental disorders. British Journal of Radiology, 97(1162), pp.1591-1601.
+Rier L*, Rhodes N*, Pakenham D, Boto E, Holmes N, Hill RM, Reina Rivero G, Shah V, Doyle C, Osborne J, Bowtell R, Taylor MJ, Brookes MJ (2024) The neurodevelopmental trajectory of beta band oscillations: an OPM-MEG study. eLife 13:RP94561 *contributed equally 
 
+Rhodes N, Rea M, Boto E, Rier L, Shah V, Hill RM, Osborne J, Doyle C, Holmes N, Coleman SC, Mullinger K, Bowtell R, Brookes MJ (2023) Measurement of frontal midline theta oscillations using OPM-MEG. NeuroImage 271:120024 
 
+Rhodes N, Holmes N, Hill R, Barnes G, Bowtell R, Brookes M, Boto E (2022) Turning OPM-MEG into a Wearable Technology. Flexible High Performance Magnetic Field Sensors. Springer, Cham.
 
 ### Co-author
 
-Vandewouw, M.M., Sato, J., Safar, K., Rhodes, N. and Taylor, M.J., 2024. The development of aperiodic and periodic resting-state power between early childhood and adulthood: new insights from optically pumped magnetometers. Developmental Cognitive Neuroscience, 69, p.101433.
+Schofield H, Hill RM, Feys OM, Holmes N, Osborne J, Doyle C, Bobela D, Corvilain P, Wens V, Rier L, Bowtell R, Ferez M, Mullinger K, Coleman SC, Rhodes N, Rea M, Tanner Z, Boto E, de Tiege X, Shah V, Brookes MJ, (2024) A novel, robust, and portable platform for magnetoencephalography using optically pumped magnetometers. Imaging Neuroscience 2:1-22
 
-Schofield, H., Hill, R.M., Feys, O., Holmes, N., Osborne, J., Doyle, C., Bobela, D., Corvilain, P., Wens, V., Rier, L., Bowtell, R., Ferez, M., Mullinger, K.J., Coleman, S.C., Rhodes, N., Rea, M., Tanner, Z., Boto, E., De Tiege, X., Shah, V. and Brookes, M., 2024. A novel, robust, and portable platform for magnetoencephalography using optically-pumped magnetometers. Imaging Neuroscience, 2, pp.1-22.
+Vandewouw MM, Sato J, Safar K, Rhodes N, Taylor MJ (2024) The development of aperiodic and periodic resting-state power between early childhood and adulthood: New insights from optically pumped magnetometers. Developmental Cognitive Neuroscience 9:69:101433
 
+Holmes N, Rea M, Hill RM, Boto E, Leggett J, Edwards LJ, Rhodes N, Shah V, Osborne J, Fromhold TM, Glover P, Montague P R, Brookes MJ, Bowtell R (2023) Naturalistic hyperscanning with wearable magnetoencephalography. Sensors 23(12):5454
 
-Rier, L.*, Rhodes, N.*, Pakenham, D.O., Boto, E., Holmes, N., Hill, R.M., Rivero, G.R., Shah, V., Doyle, C., Osborne, J., Bowtell, R.W., Taylor, M.J. and Brookes, M.J., 2024. Tracking the neurodevelopmental trajectory of beta band oscillations with optically pumped magnetometer-based magnetoencephalography. ELife, 13, p.RP94561.
+Rea M, Boto E, Holmes N, Hill R, Osborne J, Rhodes N, Leggett J, Rier L, Bowtell R, Shah V, Brookes M J (2022) A 90‐channel triaxial magnetoencephalography system using optically pumped magnetometers. Annals of the New York Academy of Sciences 1517(1):107-24.
 
+Boto E, Shah V, Hill RM, Rhodes N, Osborne J, Doyle C, Holmes N, Rea M, Leggett J, Bowtell R, Brookes MJ (2022) Triaxial detection of the neuromagnetic field using optically-pumped magnetometry: feasibility and application in children. NeuroImage 252:119027
+
+Brookes MJ, Boto E, Rea M, Shah V, Osborne J, Holmes N, Hill RM, Leggett J, Rhodes N, Bowtell R (2021) Theoretical advantages of a triaxial optically pumped magnetometer magnetoencephalography system. NeuroImage 236:118025
