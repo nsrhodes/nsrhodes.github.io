@@ -3,7 +3,7 @@
 
 ### PhD at the University of Nottingham
 
-I completed my PhD in the School of Physics and Astronomy at the University of Nottingham with Professor Matthew Brookes and Dr. Elena Boto. My thesis was titled "<a href="https://scholar.google.com/citations?user=poLTunEAAAAJ&hl=en">The Development and Application of Paediatric OPM-MEG</a>".
+I completed my PhD in the School of Physics and Astronomy at the University of Nottingham with Professor Matthew Brookes and Dr. Elena Boto. My thesis was titled "<a href="https://eprints.nottingham.ac.uk/77786/">The Development and Application of Paediatric OPM-MEG</a>".
 
 ### Postdoctoral researcher at the Hospital for Sick Children
 
